@@ -18,7 +18,6 @@ text = ""
 percent = 0
 
 while True:
-    # _,img = cv2.imread('right.jpg')
     _,img = cam.read()
     img = cv2.resize(img,(224, 224))
 
