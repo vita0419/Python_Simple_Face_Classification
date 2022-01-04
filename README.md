@@ -12,6 +12,7 @@
 คำชี้แจง
 1. keras.model.h5 ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Face_Classification.py
 2. โฟลเดอร์ img ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Face_Classification.py
+3. ต้องแตกไฟล์ img.7z ก่อน
 
 แหล่งอ้างอิง
 ดัดแปลงมาจาก https://youtu.be/g4qADQE3IBA
